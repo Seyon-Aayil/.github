@@ -1,19 +1,26 @@
-# YGGRA Systems | The Architecture of Order
+# Seyon Aayil
 
-**YGGRA** (pronounced *IG-rah*) is a specialized DevOps engineering laboratory. 
-Inspired by the mythic World Tree, we design and build the "Digital Ecosystems" 
-that support the next generation of intelligent software.
+**The Laboratory of Seyon**
 
-### Our Philosophy
-In the 2026 landscape, infrastructure is no longer just a delivery mechanism. 
-It is a living organism that requires **Structure, Security, and Compliance** by design. We provide the tools and frameworks that allow engineers to 
-"Plant their code" in stable, governed soil.
+Seyon Aayil is a technology laboratory focused on building reliable DevOps systems, intelligent AI tools, and impactful open-source projects.
 
-### Our Domains
-We build modular solutions across three core pillars:
-* **Governance & Lex:** Automated alignment with global AI and data regulations.
-* **Resilience:** Infrastructure-as-Code (IaC) that is secure and self-healing.
-* **Observability:** Deep-root visibility into complex cloud deployments.
+### Meaning
+- **Seyon** (சேயோன்) — Ancient Tamil name of Lord Murugan, "The Red One" / "The Radiant One"
+- **Aayil** (ஆயில்) — "In the research" / Place of investigation
+- Together: **In the Research of the Radiant One**
+
+### What We Build
+- DevOps & Infrastructure automation
+- AI-powered price monitoring and intelligent systems
+- Open-source projects
+- Cloud-native platforms and tools
+
+### Our Vision
+To engineer powerful, elegant systems that bring light, control, and reliability from the depths of technology - driven by modern innovation.
 
 ---
-*Architecting the Global Canopy.*
+
+**Website**: [seyonayil.tech](https://seyonayil.tech)  
+**Email**: hello@seyonayil.tech  
+
+*Forged in Radiance. Built for Scale.*
