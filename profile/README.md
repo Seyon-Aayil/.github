@@ -20,7 +20,7 @@ To engineer powerful, elegant systems that bring light, control, and reliability
 
 ---
 
-**Website**: [seyonayil.tech](https://seyonayil.tech)  
-**Email**: hello@seyonayil.tech  
+**Website**: [seyonaayil.com](https://seyonaayil.com)  
+**Email**: hello@seyonaayil.com
 
 *Forged in Radiance. Built for Scale.*
